@@ -1,4 +1,9 @@
-### Hi there 👋
+![Github stats](https://github-readme-stats.vercel.app/api?username=md-arif-shaikh&theme=highcontrast&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=md-arif-shaikh&layout=compact&hide=javascript,scss)
+<!--[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=yourusename&repo=repo-name)](https://github.com/yourusername/repo-name)-->
+
+### About me
+Hi, I am Md Arif Shaikh. I am a postdoc at the [International Centre for Theoretical Sciences](https://www.icts.res.in) (ICTS-TIFR), Bengaluru, India. I work on Graviational Wave physics and Numerical Relativity. You can find more about my work and activities in my githubpage at [md-arif-shaikh](https://md-arif-shaikh.github.io).
 
 <!--
 **md-arif-shaikh/md-arif-shaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
