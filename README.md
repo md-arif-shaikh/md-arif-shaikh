@@ -1,5 +1,5 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=md-arif-shaikh&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=md-arif-shaikh&?&exclude_repo=md-arif-shaikh.github.io,vim-config)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=md-arif-shaikh&?&exclude_repo=md-arif-shaikh.github.io,vim-config&langs_count=8)
 <!--[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=yourusename&repo=repo-name)](https://github.com/yourusername/repo-name)-->
 
 ### About me
