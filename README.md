@@ -1,5 +1,5 @@
 ### About me
-Hi, I am Md Arif Shaikh. I am a postdoc at the [International Centre for Theoretical Sciences](https://www.icts.res.in) (ICTS-TIFR), Bengaluru, India. I work on Graviational Wave physics and Numerical Relativity. You can find more about my work and activities in my githubpage at [md-arif-shaikh](https://md-arif-shaikh.github.io).
+Hi, I am Md Arif Shaikh. I am a postdoc at the [Seoul National University](https://en.snu.ac.kr) (SNU), Seoul, South Korea. I work on Graviational Wave physics and Numerical Relativity. You can find more about my work and activities in my githubpage at [md-arif-shaikh](https://md-arif-shaikh.github.io).
 
 <!--
 **md-arif-shaikh/md-arif-shaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
